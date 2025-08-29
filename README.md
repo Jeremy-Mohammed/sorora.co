@@ -18,72 +18,6 @@ This repo is a **public showcase** of the project — the full source code is ke
 
 ---
 
-## 🎥 Demo & Screenshots  
-
-Below are grouped screenshots from the **Sorora.co** app.  
-
----
-
-### 🔑 Authentication  
-- **Login**  
-  <img src="./screenshots/login.png" width="350"/>  
-
-- **Create Account**  
-  <img src="./screenshots/create-account.png" width="350"/>  
-
-- **Forgot Password**  
-  <img src="./screenshots/forgot-password.png" width="350"/>  
-
----
-
-### 🏠 Home  
-- **Home Screen**  
-  <img src="./screenshots/home.png" width="350"/>  
-
-- **Emergency Contacts on Home**  
-  <img src="./screenshots/home-contacts.png" width="350"/>  
-
-- **SOS Text Trigger**  
-  <img src="./screenshots/sos-text.png" width="350"/>  
-
----
-
-### 🎨 Customization  
-- **Customization Main Screen**  
-  <img src="./screenshots/customization.png" width="350"/>  
-
-- **Emergency Contacts List**  
-  <img src="./screenshots/customization-contacts.png" width="350"/>  
-
-- **Add Contact**  
-  <img src="./screenshots/add-contact.png" width="350"/>  
-
-- **Edit Contact**  
-  <img src="./screenshots/edit-contact.png" width="350"/>  
-
-- **Custom Alert Message**  
-  <img src="./screenshots/custom-alert.png" width="350"/>  
-
----
-
-### ⚙️ Settings  
-- **Settings Main Screen**  
-  <img src="./screenshots/settings.png" width="350"/>  
-
-- **About Us**  
-  <img src="./screenshots/about-us.png" width="350"/>  
-
-- **Delete Account**  
-  <img src="./screenshots/delete-account.png" width="350"/>  
-
----
-
-### 👤 Profile  
-- **User Profile**  
-  <img src="./screenshots/profile.png" width="350"/>  
-
----
-
 ## 🛠️ Tech Stack  
 - **Frontend**: React Native (Expo)  
 - **Backend**: Firebase (Auth, Firestore, Cloud Functions)  
@@ -123,6 +57,60 @@ I serve as the **sole developer** on this project, leading:
 - 📖 Project documentation (`/docs`).  
 - 🎨 Screenshots & mockups.
 - ❌ **Note:** Full source code is private for security reasons.  
+
+---
+
+## 🎥 Demo & Screenshots  
+
+Below are grouped screenshots from the **Sorora.co** app.  
+
+---
+
+### 🔑 Authentication  
+<p>
+  <img src="./screenshots/login.png" width="200"/>
+  <img src="./screenshots/create-account.png" width="200"/>
+  <img src="./screenshots/forgot-password.png" width="200"/>
+</p>  
+
+---
+
+### 🏠 Home  
+<p>
+  <img src="./screenshots/home.png" width="200"/>
+  <img src="./screenshots/home-contacts.png" width="200"/>
+  <img src="./screenshots/sos-text.png" width="200"/>
+</p>  
+
+---
+
+### 🎨 Customization  
+<p>
+  <img src="./screenshots/customization.png" width="200"/>
+  <img src="./screenshots/custom-alert.png" width="200"/>
+</p>  
+
+<p>
+  <img src="./screenshots/customization-contacts.png" width="200"/>
+  <img src="./screenshots/add-contact.png" width="200"/>
+  <img src="./screenshots/edit-contact.png" width="200"/>
+</p>  
+
+---
+
+### ⚙️ Settings  
+<p>
+  <img src="./screenshots/settings.png" width="200"/>
+  <img src="./screenshots/about-us.png" width="200"/>
+  <img src="./screenshots/delete-account.png" width="200"/>
+</p>  
+
+---
+
+### 👤 Profile  
+<p>
+  <img src="./screenshots/profile.png" width="200"/>
+</p>  
 
 ---
 
