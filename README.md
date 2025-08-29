@@ -26,62 +26,61 @@ Below are grouped screenshots from the **Sorora.co** app.
 
 ### 🔑 Authentication  
 - **Login**  
-  ![Login Screen](./screenshots/login.png)  
+  <img src="./screenshots/login.png" width="350"/>  
 
 - **Create Account**  
-  ![Create Account Screen](./screenshots/create-account.png)  
+  <img src="./screenshots/create-account.png" width="350"/>  
 
 - **Forgot Password**  
-  ![Forgot Password Screen](./screenshots/forgot-password.png)  
+  <img src="./screenshots/forgot-password.png" width="350"/>  
 
 ---
 
 ### 🏠 Home  
 - **Home Screen**  
-  ![Home Screen](./screenshots/home.png)  
+  <img src="./screenshots/home.png" width="350"/>  
 
 - **Emergency Contacts on Home**  
-  ![Home Emergency Contacts](./screenshots/home-contacts.png)  
+  <img src="./screenshots/home-contacts.png" width="350"/>  
 
 - **SOS Text Trigger**  
-  ![SOS Text](./screenshots/sos-text.png)  
+  <img src="./screenshots/sos-text.png" width="350"/>  
 
 ---
 
 ### 🎨 Customization  
 - **Customization Main Screen**  
-  ![Customization Main](./screenshots/customization.png)  
+  <img src="./screenshots/customization.png" width="350"/>  
 
 - **Emergency Contacts List**  
-  ![Customization Contacts](./screenshots/customization-contacts.png)  
+  <img src="./screenshots/customization-contacts.png" width="350"/>  
 
 - **Add Contact**  
-  ![Add Contact](./screenshots/add-contact.png)  
+  <img src="./screenshots/add-contact.png" width="350"/>  
 
 - **Edit Contact**  
-  ![Edit Contact](./screenshots/edit-contact.png)  
+  <img src="./screenshots/edit-contact.png" width="350"/>  
 
 - **Custom Alert Message**  
-  ![Custom Alert](./screenshots/custom-alert.png)  
+  <img src="./screenshots/custom-alert.png" width="350"/>  
 
 ---
 
 ### ⚙️ Settings  
 - **Settings Main Screen**  
-  ![Settings Main](./screenshots/settings.png)  
+  <img src="./screenshots/settings.png" width="350"/>  
 
 - **About Us**  
-  ![About Us](./screenshots/about-us.png)  
+  <img src="./screenshots/about-us.png" width="350"/>  
 
 - **Delete Account**  
-  ![Delete Account](./screenshots/delete-account.png)  
+  <img src="./screenshots/delete-account.png" width="350"/>  
 
 ---
 
 ### 👤 Profile  
 - **User Profile**  
-  ![Profile Screen](./screenshots/profile.png)  
-
+  <img src="./screenshots/profile.png" width="350"/>  
 
 ---
 
