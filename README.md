@@ -28,11 +28,11 @@ This repo is a **public showcase** of the project — the full source code is ke
 ---
 
 ## 🏗️ System Design  
-*(Add diagrams in `/docs` and link them here)*  
 
-- **Architecture** – Client app connected to Firebase backend.  
-- **Database** – Firestore used for storing user profiles, emergency contacts, and settings.  
-- **Security** – Firebase Authentication and Firestore rules for user-level access control.  
+- **Architecture** – [See architecture.md](./docs/architecture.md) – Client app connected to Firebase backend.  
+- **Database** – [See database-schema.md](./docs/database-schema.md) – Firestore used for storing user profiles, emergency contacts, and settings.  
+- **User Flows** – [See user-flows.md](./docs/user-flows.md) – Detailed flow and step-by-step user interactions.  
+ 
 
 ---
 
