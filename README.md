@@ -1,11 +1,11 @@
-# Keep Her Safe  
+# Sorora.co 
 
 > A mobile app designed to enhance personal safety through real-time alerts, emergency contact integration, and accessibility-first design.  
 
 ---
 
 ## 📱 Overview  
-**Keep Her Safe** is a mobile application that empowers individuals to act quickly in unsafe situations. With features like an SOS button, emergency contact alerts, and accessibility customization, it focuses on **safety, speed, and ease of use**.  
+**Sorora.co (formerly Keep Her Safe)** is a mobile application that empowers individuals to act quickly in unsafe situations. With features like an SOS button, emergency contact alerts, and accessibility customization, it focuses on **safety, speed, and ease of use**.  
 
 This repo is a **public showcase** of the project — the full source code is kept private for security reasons.  
 
@@ -19,9 +19,8 @@ This repo is a **public showcase** of the project — the full source code is ke
 ---
 
 ## 🎥 Demo & Screenshots  
-## 🎥 Demo & Screenshots  
 
-Below are grouped screenshots from the **Keep Her Safe** app.  
+Below are grouped screenshots from the **Sorora.co** app.  
 
 ---
 
