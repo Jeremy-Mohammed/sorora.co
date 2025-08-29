@@ -19,9 +19,70 @@ This repo is a **public showcase** of the project — the full source code is ke
 ---
 
 ## 🎥 Demo & Screenshots  
-*(Add screenshots or GIFs here — login screen, home screen with SOS button, customization menu, etc.)*  
+## 🎥 Demo & Screenshots  
 
-- [Demo Video Link](#)  
+Below are grouped screenshots from the **Keep Her Safe** app.  
+
+---
+
+### 🔑 Authentication  
+- **Login**  
+  ![Login Screen](./screenshots/login.png)  
+
+- **Create Account**  
+  ![Create Account Screen](./screenshots/create-account.png)  
+
+- **Forgot Password**  
+  ![Forgot Password Screen](./screenshots/forgot-password.png)  
+
+---
+
+### 🏠 Home  
+- **Home Screen**  
+  ![Home Screen](./screenshots/home.png)  
+
+- **Emergency Contacts on Home**  
+  ![Home Emergency Contacts](./screenshots/home-contacts.png)  
+
+- **SOS Text Trigger**  
+  ![SOS Text](./screenshots/sos-text.png)  
+
+---
+
+### 🎨 Customization  
+- **Customization Main Screen**  
+  ![Customization Main](./screenshots/customization.png)  
+
+- **Emergency Contacts List**  
+  ![Customization Contacts](./screenshots/customization-contacts.png)  
+
+- **Add Contact**  
+  ![Add Contact](./screenshots/add-contact.png)  
+
+- **Edit Contact**  
+  ![Edit Contact](./screenshots/edit-contact.png)  
+
+- **Custom Alert Message**  
+  ![Custom Alert](./screenshots/custom-alert.png)  
+
+---
+
+### ⚙️ Settings  
+- **Settings Main Screen**  
+  ![Settings Main](./screenshots/settings.png)  
+
+- **About Us**  
+  ![About Us](./screenshots/about-us.png)  
+
+- **Delete Account**  
+  ![Delete Account](./screenshots/delete-account.png)  
+
+---
+
+### 👤 Profile  
+- **User Profile**  
+  ![Profile Screen](./screenshots/profile.png)  
+
 
 ---
 
