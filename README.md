@@ -19,11 +19,35 @@ This repo is a **public showcase** of the project — the full source code is ke
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React Native (Expo)  
-- **Backend**: Firebase (Auth, Firestore, Cloud Functions)  
-- **Libraries**: Expo Router, @gorhom/bottom-sheet, Location & SMS APIs  
-- **Design Tools**: Figma, Canva 
-- **Version Control**: GitHub (private development repo)  
+
+### Frontend
+- **React Native (Expo)** – Cross-platform mobile app development  
+- **State Management** – React Context & Hooks for managing app state  
+
+### Backend
+- **Firebase** – Authentication, Firestore database, Cloud Functions for server-side logic  
+
+### Libraries & APIs
+- **Navigation & UI**: Expo Router, @gorhom/bottom-sheet  
+- **Device APIs**: Location & SMS integration for SOS functionality  
+- **Accessibility**: Built-in React Native accessibility features  
+
+### Testing & Quality
+- **Unit & Integration Testing**: Jest, React Native Testing Library  
+
+### Deployment & CI
+- **Expo Publish / EAS Build** – App deployment and build automation  
+
+### Design & Prototyping
+- **Figma & Canva** – UI/UX design and mockups  
+
+### Version Control & Collaboration
+- **GitHub** – Private development repository  
+
+### Other Tools
+- **VS Code** – Code editor  
+- **Postman** – API testing and debugging  
+
 
 ---
 
@@ -31,15 +55,22 @@ This repo is a **public showcase** of the project — the full source code is ke
 
 - **Architecture** – [See architecture.md](./docs/architecture.md) – Client app connected to Firebase backend.  
 - **Database** – [See database-schema.md](./docs/database-schema.md) – Firestore used for storing user profiles, emergency contacts, and settings.  
-- **User Flows** – [See user-flows.md](./docs/user-flows.md) – Detailed flow and step-by-step user interactions.  
+- **User Flows** – [See user-flows.md](./docs/user-flows.md) – Detailed flow and step-by-step user interactions.
+- **API Design** – [See api-design.md](./docs/api-design.md) – Overview of endpoints, Firestore operations, and device API usage. 
  
 
 ---
 
 ## 🚀 Initial Development Kickoff
 - [x] User authentication (signup, login, forgot password)  
-- [x] Live location tracking map
+- [x] Live location tracking map  
 - [x] SOS button with SMS integration  
+- [x] Emergency contacts management (add, edit, remove)  
+- [x] Custom alert message creation  
+- [x] Settings screen (About Us, Delete Account)  
+- [x] Profile management (update name, email, phone with validation, etc)  
+- [x] Real-time Firestore updates for contacts and settings  
+- [x] Modular and scalable architecture ready for additional features  
 
 ---
 
