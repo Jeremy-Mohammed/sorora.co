@@ -67,6 +67,8 @@ Below are grouped screenshots from the **Sorora.co** app.
 ---
 
 ### 🔑 Authentication  
+Core authentication screens that let users securely create an account, log in, or recover their password.  
+
 <p>
   <img src="./screenshots/login.png" width="200"/>
   <img src="./screenshots/create-account.png" width="200"/>
@@ -76,6 +78,8 @@ Below are grouped screenshots from the **Sorora.co** app.
 ---
 
 ### 🏠 Home  
+The main landing page with quick access to the SOS button and an overview of saved emergency contacts.  
+
 <p>
   <img src="./screenshots/home.png" width="200"/>
   <img src="./screenshots/home-contacts.png" width="200"/>
@@ -85,20 +89,24 @@ Below are grouped screenshots from the **Sorora.co** app.
 ---
 
 ### 🎨 Customization  
+Settings that allow users to manage their emergency contacts and personalize their alert.
+
 <p>
   <img src="./screenshots/customization.png" width="200"/>
-  <img src="./screenshots/custom-alert.png" width="200"/>
+  <img src="./screenshots/customization-contacts.png" width="200"/>
+  <img src="./screenshots/add-contact.png" width="200"/>
 </p>  
 
 <p>
-  <img src="./screenshots/customization-contacts.png" width="200"/>
-  <img src="./screenshots/add-contact.png" width="200"/>
   <img src="./screenshots/edit-contact.png" width="200"/>
+  <img src="./screenshots/custom-alert.png" width="200"/>
 </p>  
 
 ---
 
 ### ⚙️ Settings  
+General account and app settings including about the creators, delete account options, and sign out.  
+
 <p>
   <img src="./screenshots/settings.png" width="200"/>
   <img src="./screenshots/about-us.png" width="200"/>
@@ -108,6 +116,8 @@ Below are grouped screenshots from the **Sorora.co** app.
 ---
 
 ### 👤 Profile  
+A dedicated screen for viewing and managing the user’s account profile information.  
+
 <p>
   <img src="./screenshots/profile.png" width="200"/>
 </p>  
